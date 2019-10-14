@@ -1,2 +1,2 @@
 # stath.sh
-stat + zgrep logs for m- or ctime
+stat file + zgrep http/ftp logs for m/ctime
